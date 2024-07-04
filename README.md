@@ -1,25 +1,26 @@
 # CSE-472-Machine-learning
 
-
 ## Overview
 
 This repository contains four assignments focusing on different areas of machine learning and linear algebra:
 
-1. **Assignment 1**: Eigen Decomposition and Matrix Transformation
+1. **Assignment 1**: Eigen Decomposition, SVD and Matrix Transformation
 2. **Assignment 2**: Logistic Regression and AdaBoost for Classification
 3. **Assignment 3**: Feed-forward Neural Networks
 4. **Assignment 4**: PCA and EM Algorithm for GMM
 
-## Assignment 1: Eigen Decomposition and Matrix Transformation
+## Assignment 1: Eigen Decomposition, Matrix Transformation, and Image Reconstruction using SVD
 
 ### Tasks
 - **Eigen Decomposition**: Decompose a matrix into eigenvalues and eigenvectors.
 - **Matrix Transformation**: Implement various matrix transformations such as rotation, scaling, and translation.
+- **Image Reconstruction using SVD**: Reconstruct images by applying Singular Value Decomposition (SVD).
 
 ### Steps
 1. Calculate eigenvalues and eigenvectors of a given matrix.
 2. Implement and apply different matrix transformations.
-3. Verify decomposition and visualize transformations.
+3. Reconstruct images using SVD by decomposing and reassembling matrices.
+4. Verify decomposition and visualize transformations and image reconstructions.
 
 ## Assignment 2: Logistic Regression and AdaBoost for Classification
 
